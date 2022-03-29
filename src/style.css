@@ -4,6 +4,10 @@
   margin: 0 0 10px ;
 }
 
+.cats {
+  display: inline-block;
+}
+
 .form_last {
   margin-bottom: auto;
 }
