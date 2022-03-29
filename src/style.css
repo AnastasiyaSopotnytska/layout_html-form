@@ -8,6 +8,9 @@
   margin-bottom: auto;
 }
 
-fieldset {
+.personal-information,
+.registration,
+.facts,
+.addition {
   margin-bottom: 20px;
 }
